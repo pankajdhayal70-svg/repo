@@ -1,2 +1,2 @@
 # repo
-bank ui
+banking program
